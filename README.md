@@ -49,6 +49,3 @@ Use $gitmoji-commit-generator to generate a Gitmoji commit message from the curr
 - **[改动点]** [业务背景/技术动机]
 ```
 
-## 许可证
-
-尚未指定许可证。发布为公开仓库前，建议补充明确的开源协议。
