@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gitmoji Commit 助手"
+  short_description: "根据 Git Diff 自动生成标准化的 Gitmoji Commit 信息。"
+  default_prompt: "Use $gitmoji-commit-generator to generate a Gitmoji commit message from the current staged changes."
