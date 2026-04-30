@@ -8,7 +8,6 @@
 - 当没有 staged changes 时，自动回退到 unstaged changes。
 - 根据 `references/gitmoji_map.md` 匹配最合适的 Gitmoji 类型。
 - 输出中文 subject，并在正文中说明改动动机。
-- 对 Supabase、Taro、Umi、Next 等特定技术栈变更做显著标注。
 
 ## 安装
 
